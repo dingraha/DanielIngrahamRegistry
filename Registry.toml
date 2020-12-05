@@ -5,3 +5,4 @@ repo = "git@developer.nasa.gov:dingraha/DanielIngrahamRegistry.git"
 [packages]
 6a4a75d9-c98f-4276-9eff-70e8e993a339 = { name = "ANOPP2", path = "A/ANOPP2" }
 cd5ebc29-f022-437d-affb-ff7a1ae69623 = { name = "CF1A", path = "C/CF1A" }
+dfba9b08-b01a-4e4c-a288-371e2cdee4ea = { name = "CROTORCCBladeComparisons", path = "C/CROTORCCBladeComparisons" }
