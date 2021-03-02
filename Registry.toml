@@ -3,6 +3,7 @@ uuid = "5f7f95a9-53dc-4914-bd15-5a5a3c36d23e"
 repo = "git@developer.nasa.gov:dingraha/DanielIngrahamRegistry.git"
 
 [packages]
+5dd5ea32-d67d-426d-b4ce-2ad113187929 = { name = "SingleFieldStructArrays", path = "S/SingleFieldStructArrays" }
 60a40a53-6d8e-4940-bfcb-6c86f9d3795d = { name = "NZawodny2016Propeller", path = "N/NZawodny2016Propeller" }
 6a4a75d9-c98f-4276-9eff-70e8e993a339 = { name = "ANOPP2", path = "A/ANOPP2" }
 730d3219-0a85-48f9-b699-9f31f8913d09 = { name = "KinematicCoordinateTransformations", path = "K/KinematicCoordinateTransformations" }
