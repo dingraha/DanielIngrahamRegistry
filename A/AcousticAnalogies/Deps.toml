@@ -11,3 +11,7 @@ CCBlade = "e1828068-15df-11e9-03e4-ef195ea46fa4"
 
 ["0.5-0"]
 AcousticMetrics = "046f749b-9c1e-43ca-86bc-6902340f753e"
+
+["0.6-0"]
+Formatting = "59287772-0a20-5a39-b81b-1366585eb4c0"
+WriteVTK = "64499a7a-5c06-52f2-abe2-ccb03c286192"
