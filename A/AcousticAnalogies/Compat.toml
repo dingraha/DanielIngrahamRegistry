@@ -1,0 +1,4 @@
+["0.6.5-0"]
+AcousticMetrics = "0.3"
+KinematicCoordinateTransformations = "0.4.1-0.4"
+SingleFieldStructArrays = "0.3"
