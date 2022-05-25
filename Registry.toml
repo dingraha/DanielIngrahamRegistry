@@ -6,6 +6,7 @@ repo = "git@developer.nasa.gov:dingraha/DanielIngrahamRegistry.git"
 046f749b-9c1e-43ca-86bc-6902340f753e = { name = "AcousticMetrics", path = "A/AcousticMetrics" }
 24d19c10-6eee-420f-95df-4537264b2753 = { name = "OpenMDAOCore", path = "O/OpenMDAOCore" }
 5dd5ea32-d67d-426d-b4ce-2ad113187929 = { name = "SingleFieldStructArrays", path = "S/SingleFieldStructArrays" }
+6099a3de-0909-46bc-b1f4-468b9a2dfc0d = { name = "PythonCall", path = "P/PythonCall" }
 60a40a53-6d8e-4940-bfcb-6c86f9d3795d = { name = "NZawodny2016Propeller", path = "N/NZawodny2016Propeller" }
 6a4a75d9-c98f-4276-9eff-70e8e993a339 = { name = "ANOPP2", path = "A/ANOPP2" }
 730d3219-0a85-48f9-b699-9f31f8913d09 = { name = "KinematicCoordinateTransformations", path = "K/KinematicCoordinateTransformations" }
