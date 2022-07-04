@@ -15,3 +15,4 @@ a110648e-2308-4a5e-af40-0e5e4b5cf51d = { name = "LitMan", path = "L/LitMan" }
 cd5ebc29-f022-437d-affb-ff7a1ae69623 = { name = "CF1A", path = "C/CF1A" }
 dfba9b08-b01a-4e4c-a288-371e2cdee4ea = { name = "CROTORCCBladeComparisons", path = "C/CROTORCCBladeComparisons" }
 e71b3392-1e0c-4536-b366-2bd1fce6fba0 = { name = "AcousticAnalogies", path = "A/AcousticAnalogies" }
+f390d5a0-9808-4450-bd84-31fd2e33ad9b = { name = "Foo", path = "F/Foo" }
