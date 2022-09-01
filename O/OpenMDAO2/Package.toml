@@ -1,0 +1,3 @@
+name = "OpenMDAO2"
+uuid = "21a884e9-3d5b-442b-8e8d-83dfe1f511bd"
+repo = "git@github.com:dingraha/OpenMDAO2.jl.git"
