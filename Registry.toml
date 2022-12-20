@@ -1,6 +1,6 @@
 name = "DanielIngrahamRegistry"
 uuid = "5f7f95a9-53dc-4914-bd15-5a5a3c36d23e"
-repo = "git@developer.nasa.gov:dingraha/DanielIngrahamRegistry.git"
+repo = "git@github.com:dingraha/DanielIngrahamRegistry.git"
 
 [packages]
 046f749b-9c1e-43ca-86bc-6902340f753e = { name = "AcousticMetrics", path = "A/AcousticMetrics" }
