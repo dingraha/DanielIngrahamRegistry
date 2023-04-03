@@ -5,5 +5,14 @@ SingleFieldStructArrays = "0.3"
 ["0.6.5-0.6"]
 AcousticMetrics = "0.3"
 
-["0.7-0"]
+["0.7.0"]
 AcousticMetrics = "0.5.1-0.5"
+
+["0.7.1-0"]
+AcousticMetrics = "0.6"
+CCBlade = "0.2.4-0.2"
+ConcreteStructs = "0.2.3-0.2"
+FLOWMath = "0.3.3-0.3"
+Formatting = "0.4.2-0.4"
+StaticArrays = "1.5.19-1"
+WriteVTK = "1.17.1-1"
